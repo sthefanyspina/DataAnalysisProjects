@@ -71,10 +71,12 @@
 </ol>
 </br>
 
-📦 Requisitos</br>
-Python</br>
-pandas</br>
-numpy</br>
-matplotlib</br>
-seaborn</br>
+<h3>📦 Requisitos</h3></br>
+<ul>
+  <li>Python</li>
+  <li>pandas</li>
+  <li>numpy</li>
+  <li>matplotlib</li>
+  <li>seaborn</li>
+</ul>
 
