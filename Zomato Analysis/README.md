@@ -6,7 +6,7 @@
 <p>The dataset can me found in this link: https://www.geeksforgeeks.org/zomato-data-analysis-using-python/</p>
 <p>Understanding customer preferences and restaurant trends is important for making informed business decisions in food industry.</p>
 
-<p>Steps:</p>
+<h3>Steps:</h3>
 <ol> 
   <li> Importing necessary Python libraries:
     <ul>
