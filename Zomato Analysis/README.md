@@ -6,10 +6,6 @@
 <p>The dataset can me found in this link: https://www.geeksforgeeks.org/zomato-data-analysis-using-python/</p>
 <p>Understanding customer preferences and restaurant trends is important for making informed business decisions in food industry.</p>
 
-<p>The second and third datasets can be found in this link: https://www.kaggle.com/datasets/eoinamoore/historical-nba-data-and-player-box-scores</p>
-<p>I used the PlayerStatistics.csv - The centerpiece of the dataset, this file contains detailed box scores for every individual player in NBA history, game by game.</p>
-<p>And the Players.csv - Biographical information for every player, including height, weight, and position, enabling detailed player analysis across eras.</p></br>
-
 <p>Steps:</p>
 <ol> 
   <li> Importing necessary Python libraries:
