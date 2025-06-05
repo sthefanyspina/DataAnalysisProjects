@@ -40,19 +40,21 @@
 
   <li>OneHotEncoder - For Label categorical features:
     <ul>
-      <li>Used sns.countplot to see how many restaurants accept online orders</li>
+      <li>Used One hot Encoding to convert categorical data into binary vectors</li>
     </ul>
   </li></br>
 
-  <li>Analyze Ratings
+  <li>Splitting Dataset into Training and Testing:
     <ul>
-      <li>Used plt.hist to check the distribution of ratings from the rate column.</li>
+      <li>Used train_test_split to split the dataset into trainig and testing</li>
     </ul>
   </li></br>
 
-  <li>Approximate Cost for Couples
+  <li>Model Training and Accuracy:
     <ul>
-      <li>Used sns.countplot in the approx_cost(for two people) column to find the preferred price range</li>
+      <li>Used Support vector Machine: used the SVR() function to create the Support vector Machine</li>
+      <li>Random Forest Regression: used RandomForestRegressor to create the algorithm  </li>
+      <li>Linear Regression: used the LinearRegression() function for modeling the relationship between a dependent variable and one or more independent variables.</li>
     </ul>
   </li></br>
 
@@ -75,9 +77,9 @@
 <ul>
   <li>Python</li>
   <li>pandas</li>
-  <li>numpy</li>
   <li>matplotlib</li>
   <li>seaborn</li>
+  <li>sklearn</li>
 </ul>
 
 
