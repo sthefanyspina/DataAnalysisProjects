@@ -70,7 +70,7 @@
   
 </ol>
 
-<h3>📦 Requisitos</h3></br>
+<h3>📦 Requisitos</h3>
 <ul>
   <li>Python</li>
   <li>pandas</li>
