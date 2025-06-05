@@ -69,7 +69,6 @@
   </li></br>
   
 </ol>
-</br>
 
 <h3>📦 Requisitos</h3></br>
 <ul>
