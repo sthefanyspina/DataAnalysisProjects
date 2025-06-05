@@ -35,46 +35,46 @@
     <ul>
       <li>Used max_votes to find the restaurant with the highest number of votes</li>
     </ul>
-  </li>
+  </li></br>
 
   <li>Online Order Availability
     <ul>
       <li>Used sns.countplot to see how many restaurants accept online orders</li>
     </ul>
-  </li>
+  </li></br>
 
   <li>Analyze Ratings
     <ul>
       <li>Used plt.hist to check the distribution of ratings from the rate column.</li>
     </ul>
-  </li>
+  </li></br>
 
   <li>Approximate Cost for Couples
     <ul>
       <li>Used sns.countplot in the approx_cost(for two people) column to find the preferred price range</li>
     </ul>
-  </li>
+  </li></br>
 
    <li>Ratings Comparison - Online vs Offline Orders
     <ul>
       <li>Used plt.figure and sns.boxplot to compare ratings between restaurants that accept online orders and those that don't.</li>
     </ul>
-  </li>
+  </li></br>
 
    <li>Order Mode Preferences by Restaurant Type
     <ul>
       <li>Used dataframe.pivot_table to create a pivot table counting restaurants by type and online order availability.</li>
       <li>Used sns.heatmap to show the relationship</li>
     </ul>
-  </li>
+  </li></br>
   
 </ol>
 </br>
 
-📦 Requisitos
-Python
-pandas
-numpy
-matplotlib
-seaborn
+📦 Requisitos</br>
+Python</br>
+pandas</br>
+numpy</br>
+matplotlib</br>
+seaborn</br>
 
