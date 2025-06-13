@@ -1,7 +1,7 @@
 <H1>Data Analysis Projects</H1>
 
 <p>© 2025 - current, Sthefany Spina</p>
-<p>This is a repository of teaching materials, code, and data for my data analysis projects.</p></br>
+<p>This is a repository of teaching materials, code, and data for my data analysis projects.</p>
 
 <h3>Project Goals</h3>
 <ul> 
@@ -17,7 +17,7 @@
   <li> Learn PowerBi for data visualization</li>
   <li> Learn Tableau for data visualization</li>
   <li> Learn Looker for data visualization</li>
-</ul></br>
+</ul>
 
 
 <h3>Tools that I use:</h3>
