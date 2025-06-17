@@ -62,6 +62,6 @@
           <li>Profit margin analysis by branch and category</li>
         </ul>
     </ul>
-  </li>
+  </li>>/br>
 
   ![image](https://github.com/user-attachments/assets/9c4f8b7b-a187-481d-aab8-55fc5e4625cf)
