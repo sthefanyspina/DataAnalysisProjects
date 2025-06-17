@@ -59,10 +59,9 @@
           <li>Identifying best-selling product categories.</li>
           <li>Sales performance by time, city, and payment method.</li>
           <li>Analyzing peak sales periods and customer buying patterns.</li>
-
-![image](https://github.com/user-attachments/assets/56e18b15-c6a1-42e6-af7e-46f4ed36125b)
-
           <li>Profit margin analysis by branch and category</li>
         </ul>
     </ul>
   </li>
+
+  ![image](https://github.com/user-attachments/assets/9c4f8b7b-a187-481d-aab8-55fc5e4625cf)
