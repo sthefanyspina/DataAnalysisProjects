@@ -4,8 +4,6 @@
 </p>
 
 <h2>Steps:</h2>
-
-
 <ol> 
   <li> <h3>Create a Database</h3></li>
   <li> <h3>Develop SQL Queries</h3></li>
@@ -18,9 +16,8 @@
       <li> Seasonal Revenue.</li>
       <li> Rider Demographics.</li>
     </ul>
-  </li>
-
-  </li></br>
+  </ol>
+  </br>
 
 ![image](https://github.com/user-attachments/assets/20ae9e3d-5a1c-4fe7-87f9-1a6c198c0f94)
 
