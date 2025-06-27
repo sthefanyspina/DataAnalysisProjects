@@ -49,4 +49,4 @@
   </li>
 </ol></br>
 
-![image](https://github.com/user-attachments/assets/5b688ca8-ac9b-4592-80f3-241a8c772169)
+<img src: "https://github.com/sthefanyspina/sthefanys.tech/blob/main/src/Assets/Projects/NbaStatsDashboard.png"/>
