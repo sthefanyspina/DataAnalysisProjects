@@ -31,7 +31,7 @@
       <li> Remove Duplicates: Identify and remove duplicate entries.</li>
       <li> Handle Missing Values: Drop rows or columns with missing values if they are insignificant; fill values where essential.</li>
       <li> Fix Data Types: Ensure all columns have consistent data types (e.g., dates as datetime, prices as float).</li>
-      <li> urrency Formatting: Use .replace() to handle and format currency values for analysis.</li>
+      <li> Currency Formatting: Use .replace() to handle and format currency values for analysis.</li>
       <li> Validation: Check for any remaining inconsistencies and verify the cleaned data.</li>
     </ul>
   </li>
