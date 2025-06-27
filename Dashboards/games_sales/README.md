@@ -41,5 +41,5 @@
   </li>
 </ol></br>
 
-![image](https://github.com/user-attachments/assets/3e05e08b-526f-429e-a9bd-4e51c39fdc6e)
+<img src="https://github.com/sthefanyspina/sthefanys.tech/blob/main/src/Assets/Projects/GamesSalesDashboard.png"/>
 
