@@ -46,4 +46,4 @@
   </li>
 </ol></br>
 
-![image](https://github.com/user-attachments/assets/d0320e84-5143-470e-bcfa-dfc0cfcd9f8c)
+https://github.com/sthefanyspina/sthefanys.tech/blob/main/src/Assets/Projects/SeriesMoviesDashboard.png
