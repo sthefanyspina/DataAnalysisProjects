@@ -8,7 +8,7 @@
 
 <ol> 
   <li> <h3>Create a Database</h3></li>
-  <li> <h3Develop SQL Queries</h3></li>
+  <li> <h3>Develop SQL Queries</h3></li>
   <li> <h3>Connect Power BI to database</h3></li>
   <li> <h3>Build a dashboard in Power BI</h3></li>
   <li> <h3>Answer the Analysis Question</h3></li>
