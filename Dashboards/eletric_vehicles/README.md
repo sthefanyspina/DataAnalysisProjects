@@ -39,4 +39,4 @@ A Battery Electric Vehicle (BEV) is an all-electric vehicle using one or more ba
   </li>
 </ol>
 
-![image](https://github.com/user-attachments/assets/d0320e84-5143-470e-bcfa-dfc0cfcd9f8c)
+<img src="https://github.com/sthefanyspina/sthefanys.tech/blob/main/src/Assets/Projects/EletricVehicles.png"/>
