@@ -27,10 +27,12 @@
 </p>
 
 <h3>Objective</h3>
-<ul>Predictive Modeling:
-    <li> Build a machine learning model to classify customers into churn or non-churn segments. </li>
-    <li>Identify the most influential features contributing to churn.</li> 
-</ul>
+<p>Predictive Modeling:
+    <ul>
+        <li> Build a machine learning model to classify customers into churn or non-churn segments. </li>
+        <li>Identify the most influential features contributing to churn.</li> 
+    </ul>
+</p>
 
 <ul>Actionable Insights:
     <li>Provide recommendations for personalized retention offers. </li>
