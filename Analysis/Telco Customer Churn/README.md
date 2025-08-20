@@ -3,7 +3,7 @@
 <p>The company is a fictional telecommunications provider based in California, offering home phone and Internet services. In Q3, the company served 7,043 customers, delivering various service plans including phone, high-speed DSL, and fiber optic internet. The company aims to provide reliable connectivity and quality customer experience while maintaining a competitive edge in the telecom market. </p>
 
 <p>In this project I used the Telco Customer Churn dataset that can me found in this link: https://www.kaggle.com/datasets/blastchar/telco-customer-churn/data</p>
-<p>Each row represents a customer, each column contains customer’s attributes described on the column Metadata.</p> </br>
+<p>Each row represents a customer, each column contains customer’s attributes described on the column Metadata.</p>
 
 <h3>Problem Background</h3>
 <ul>
