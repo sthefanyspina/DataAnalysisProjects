@@ -56,7 +56,7 @@
           <li>Checking missing values</li>
           <li>Check the count and what unique values exist for each feature</li>
         </ul>
-      </li></br>
+    </li></br>
 
     <li>Data Preprocessing:
         <ul>
