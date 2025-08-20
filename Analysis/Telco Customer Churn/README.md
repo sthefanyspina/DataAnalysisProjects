@@ -48,7 +48,7 @@
         <ul>
             <li>Used the read_csv() to load my dataset into a Pandas DataFrame.</li>
         </ul>
-      </li></br>
+    </li></br>
 
     <li>Data Understanding:
         <ul>
