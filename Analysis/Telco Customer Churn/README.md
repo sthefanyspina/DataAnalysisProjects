@@ -27,17 +27,20 @@
 </p>
 
 <h3>Objective</h3>
-<ul>Predictive Modeling:
+<ul>
+Predictive Modeling:
     <li> Build a machine learning model to classify customers into churn or non-churn segments. </li>
     <li>Identify the most influential features contributing to churn.</li> 
 </ul>
 
-<ul>Actionable Insights:
+<ul>
+Actionable Insights:
     <li>Provide recommendations for personalized retention offers. </li>
     <li>Support marketing and customer service teams in implementing targeted strategies. </li> 
 </ul>
 
-<ul>Business Impact
+<ul>
+Business Impact
     <li>Reduce churn rate and increase Customer Lifetime Value (CLTV).</li>
     <li>Enhance customer loyalty and satisfaction. </li> 
 </ul>
