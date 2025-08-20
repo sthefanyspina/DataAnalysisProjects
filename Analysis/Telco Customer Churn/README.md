@@ -1,16 +1,64 @@
+<H1>Telco Customer Churn</H1>
 
+<p>The company is a fictional telecommunications provider based in California, offering home phone and Internet services. In Q3, the company served 7,043 customers, delivering various service plans including phone, high-speed DSL, and fiber optic internet. The company aims to provide reliable connectivity and quality customer experience while maintaining a competitive edge in the telecom market. </p></br>
 
+<p>In this project I used the Telco Customer Churn dataset that can me found in this link: https://www.kaggle.com/datasets/blastchar/telco-customer-churn/data</p>
+<p>Each row represents a customer, each column contains customer’s attributes described on the column Metadata.</p> </br>
 
-Business Understanding
-🏢 1.1 About Company
-The company is a fictional telecommunications provider based in California, offering home phone and Internet services. In Q3, the company served 7,043 customers, delivering various service plans including phone, high-speed DSL, and fiber optic internet. The company aims to provide reliable connectivity and quality customer experience while maintaining a competitive edge in the telecom market.
-
-⚠️ 1.2 Problem Background
-Customer churn is a critical challenge in the telecommunications industry.
+<h3>Problem Background</h3>
+<p>Customer churn is a critical challenge in the telecommunications industry.
 High churn rates impact revenue, operational efficiency, and market share.
 Despite having a broad service portfolio, the company has observed fluctuations in customer retention.
 Multiple factors such as service quality, contract terms, billing methods, and demographics influence churn.
-The company seeks to identify reasons for churn and predict customers at risk.
+The company seeks to identify reasons for churn and predict customers at risk.</p>
+
+<h3>Goals:</h3>
+<p>Leverage customer demographic, service usage, and account information to:
+  <ul>
+    <li> Understand churn drivers.</li>
+    <li>Predict churn likelihood.</li>
+    <li>Design targeted retention strategies.</li>
+    <li>Reduce churn rates and improve customer satisfaction.</li>
+  </ul>
+</p>
+
+<p>Steps:</p>
+<ol> 
+  <li> Load the csv file:
+    <ul>
+      <li>Used the read_csv() to load my dataset into a Pandas DataFrame.</li>
+    </ul>
+  </li></br>
+
+  <li>Explore the data:
+    <ul>
+      <li>Used the function head to call the first 5 rows of the dataset. </li>
+      <li>Used the info function, that gives the number of columns, column labels, column data types, memory usage, range index, and the number of cells in each column (non-null values).</li>
+      <li>Used the describe function, that gives some statistical data like percentile, mean and standard deviation of the numerical values of the Series or DataFrame.</li>
+    </ul>
+  </li></br>
+
+  <li>Identify and Handle Missing Values:
+    <ul>
+      <li>Used isnull function to identify missing values in the dataset.</li>
+      <li>Used the dropna function to drop the missing/null values from our dataset.</li>
+    </ul>
+  </li></br>
+
+  <li>Data Type Conversion:
+    <ul>
+      <li>Used the astype to convert the column types.</li>
+    </ul>
+  </li></br>
+
+  <li>Save the data
+    <ul>
+      <li>I saved the data using the df.to_csv(new_name.csv, index=False)</li>
+    </ul>
+  </li>
+</ol></br>
+
+
 🎯 1.3 Goals
 Leverage customer demographic, service usage, and account information to:
 
