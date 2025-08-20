@@ -64,7 +64,7 @@
           <li>Handling Missing Values</li>
           <li>Fill NaN values only in the 'TotalCharges' column with 0</li>
         </ul>
-      </li></br>
+    </li></br>
 
     <li>Univariate Analysis:
         <ul>
@@ -73,20 +73,20 @@
             <li>Churn Distribuition plot</li>
             <li>Distribuiton Categorical Columns plots</li>
         </ul>
-      </li></br>
+    </li></br>
 
     <li>Bivariate Analysis:
         <ul>
             <li>Barplot Categoricak Columns by Churn</li>
             <li>Displot of Bivariate Analysis by Churn</li>
         </ul>
-      </li></br>
+    </li></br>
 
     <li>Multivariate Analysis:
         <ul>
             <li>Correlation heatmap</li>
         </ul>
-      </li></br>
+    </li></br>
 
     <li>Features Encoding:
         <ul>
@@ -95,7 +95,7 @@
             <li>Binary categorical columns — use LabelEncoder</li>
             <li>Multi-category categorical columns — use One-Hot Encoding</li>
         </ul>
-      </li></br>
+    </li></br>
 
     <li>Features Scalling:
         <ul>
@@ -103,14 +103,14 @@
             <li>Fill missing TotalCharges with median value</li>
             <li>Scale numerical features using StandardScaler (mean=0, std=1)</li>
         </ul>
-      </li></br>
+    </li></br>
 
     <li>Modeling & Evaluation:
         <ul>
             <li>Spliting Data</li>
             <li>Modeling : Random Forest</li>
         </ul>
-      </li></br>
+    </li></br>
   
     <li>Performance Evaluation:
         <ul>
@@ -120,7 +120,7 @@
             <li>Calculate ROC-AUC</li>
         </ul>
     </li>
-</ol></br>
+</ol>
 
 <h3>Conclusion</h3>
 <ul>
