@@ -26,6 +26,23 @@
   </ul>
 </p>
 
+<h3>Objective</h3>
+<p>To address churn effectively, the analysis will focus on:
+    <ul>Predictive Modeling:
+        <li> Build a machine learning model to classify customers into churn or non-churn segments. </li>
+        <li>Identify the most influential features contributing to churn.</li> </ul>
+    
+    <ul>Actionable Insights
+         <li>Provide recommendations for personalized retention offers. </li>
+         <li>Support marketing and customer service teams in implementing targeted strategies. </li> </ul>
+
+    <ul>Business Impact
+        <li>Reduce churn rate and increase Customer Lifetime Value (CLTV).</li>
+        <li>Enhance customer loyalty and satisfaction. </li> </ul>
+</p>
+
+
+
 <p>Steps:</p>
 <ol> 
   <li> Load the csv file:
@@ -62,26 +79,6 @@
   </li>
 </ol></br>
 
-
-🎯 1.3 Goals
-Leverage customer demographic, service usage, and account information to:
-
-Understand churn drivers.
-Predict churn likelihood.
-Design targeted retention strategies.
-Reduce churn rates and improve customer satisfaction.
-🛠️ 1.4 Objective
-To address churn effectively, the analysis will focus on:
-
-📈 Predictive Modeling
-Build a machine learning model to classify customers into churn or non-churn segments.
-Identify the most influential features contributing to churn.
-💡 Actionable Insights
-Provide recommendations for personalized retention offers.
-Support marketing and customer service teams in implementing targeted strategies.
-📊 Business Impact
-Reduce churn rate and increase Customer Lifetime Value (CLTV).
-Enhance customer loyalty and satisfaction.
 
 Data Understanding
 -Checking duplicated data
