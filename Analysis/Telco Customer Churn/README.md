@@ -83,7 +83,7 @@
         </ul>
       </li></br>
 
-    <li>Univariate Analysis:
+    <li>Multivariate Analysis:
         <ul>
             <li>Correlation heatmap</li>
         </ul>
