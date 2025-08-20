@@ -6,14 +6,14 @@
 <p>Each row represents a customer, each column contains customer’s attributes described on the column Metadata.</p> </br>
 
 <h3>Problem Background</h3>
-  <ol>
-    <ul>Customer churn is a critical challenge in the telecommunications industry.</ul>
-    <ul>Customer churn is a critical challenge in the telecommunications industry.</ul>
-    <ul>High churn rates impact revenue, operational efficiency, and market share.</ul>
-    <ul>Despite having a broad service portfolio, the company has observed fluctuations in customer retention.</ul>
-    <ul>Multiple factors such as service quality, contract terms, billing methods, and demographics influence churn.</ul>
-    <ul>The company seeks to identify reasons for churn and predict customers at risk.</ul>
-  </ol>
+<ul>
+    <li>Customer churn is a critical challenge in the telecommunications industry.</li>
+    <li>Customer churn is a critical challenge in the telecommunications industry.</li>
+    <li>High churn rates impact revenue, operational efficiency, and market share.</li>
+    <li>Despite having a broad service portfolio, the company has observed fluctuations in customer retention.</li>
+    <li>Multiple factors such as service quality, contract terms, billing methods, and demographics influence churn.</li>
+    <li>The company seeks to identify reasons for churn and predict customers at risk.</li>
+</ul>
 
 
 <h3>Goals:</h3>
