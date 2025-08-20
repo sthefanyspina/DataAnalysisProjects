@@ -83,16 +83,9 @@
         </ul>
       </li></br>
 
-      <li>Univariate Analysis:
+    <li>Univariate Analysis:
         <ul>
             <li>Correlation heatmap</li>
-        </ul>
-      </li></br>
-
-    <li>Bivariate Analysis:
-        <ul>
-            <li>Barplot Categoricak Columns by Churn</li>
-            <li>Displot of Bivariate Analysis by Churn</li>
         </ul>
       </li></br>
 
