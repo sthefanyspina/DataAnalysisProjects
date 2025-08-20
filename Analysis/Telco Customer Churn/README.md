@@ -1,16 +1,21 @@
 <H1>Telco Customer Churn</H1>
 
-<p>The company is a fictional telecommunications provider based in California, offering home phone and Internet services. In Q3, the company served 7,043 customers, delivering various service plans including phone, high-speed DSL, and fiber optic internet. The company aims to provide reliable connectivity and quality customer experience while maintaining a competitive edge in the telecom market. </p></br>
+<p>The company is a fictional telecommunications provider based in California, offering home phone and Internet services. In Q3, the company served 7,043 customers, delivering various service plans including phone, high-speed DSL, and fiber optic internet. The company aims to provide reliable connectivity and quality customer experience while maintaining a competitive edge in the telecom market. </p>
 
 <p>In this project I used the Telco Customer Churn dataset that can me found in this link: https://www.kaggle.com/datasets/blastchar/telco-customer-churn/data</p>
 <p>Each row represents a customer, each column contains customer’s attributes described on the column Metadata.</p> </br>
 
 <h3>Problem Background</h3>
-<p>Customer churn is a critical challenge in the telecommunications industry.
-High churn rates impact revenue, operational efficiency, and market share.
-Despite having a broad service portfolio, the company has observed fluctuations in customer retention.
-Multiple factors such as service quality, contract terms, billing methods, and demographics influence churn.
-The company seeks to identify reasons for churn and predict customers at risk.</p>
+<p>
+  <ol>
+    <ul>Customer churn is a critical challenge in the telecommunications industry.</ul>
+    <ul>Customer churn is a critical challenge in the telecommunications industry.</ul>
+    <ul>High churn rates impact revenue, operational efficiency, and market share.</ul>
+    <ul>Despite having a broad service portfolio, the company has observed fluctuations in customer retention.</ul>
+    <ul>Multiple factors such as service quality, contract terms, billing methods, and demographics influence churn.</ul>
+    <ul>The company seeks to identify reasons for churn and predict customers at risk.</ul>
+  </ol>
+</p>
 
 <h3>Goals:</h3>
 <p>Leverage customer demographic, service usage, and account information to:
