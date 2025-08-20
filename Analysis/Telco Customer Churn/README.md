@@ -43,7 +43,7 @@
 
 
 
-<p>Steps:</p>
+<h3>Steps:</h3>
 <ol> 
   <li> Load the csv file:
     <ul>
@@ -51,82 +51,89 @@
     </ul>
   </li></br>
 
-  <li>Explore the data:
+  <li>Data Understanding:
     <ul>
-      <li>Used the function head to call the first 5 rows of the dataset. </li>
-      <li>Used the info function, that gives the number of columns, column labels, column data types, memory usage, range index, and the number of cells in each column (non-null values).</li>
-      <li>Used the describe function, that gives some statistical data like percentile, mean and standard deviation of the numerical values of the Series or DataFrame.</li>
+      <li>Checking duplicated data. </li>
+      <li>Checking missing values</li>
+      <li>Check the count and what unique values exist for each feature</li>
     </ul>
   </li></br>
 
-  <li>Identify and Handle Missing Values:
+  <li>Data Preprocessing:
     <ul>
-      <li>Used isnull function to identify missing values in the dataset.</li>
-      <li>Used the dropna function to drop the missing/null values from our dataset.</li>
+      <li>Conversion Data Type TotalCharges</li>
+      <li>Handling Missing Values</li>
+        <li>Fill NaN values only in the 'TotalCharges' column with 0</li>
     </ul>
   </li></br>
 
-  <li>Data Type Conversion:
+  <li>Univariate Analysis:
     <ul>
-      <li>Used the astype to convert the column types.</li>
+        <li>Grouping Categorical and Numerical Columns</li>
+        <li>Histogram and boxplot Numerical Columns</li>
+        <li>Churn Distribuition plot</li>
+        <li>Distribuiton Categorical Columns plots</li>
     </ul>
   </li></br>
 
-  <li>Save the data
-    <ul>
-      <li>I saved the data using the df.to_csv(new_name.csv, index=False)</li>
-    </ul>
-  </li>
+    <li>Bivariate Analysis:
+        <ul>
+            <li>Barplot Categoricak Columns by Churn</li>
+            <li>Displot of Bivariate Analysis by Churn</li>
+        </ul>
+      </li></br>
+
+      <li>Univariate Analysis:
+        <ul>
+            <li>Correlation heatmap</li>
+        </ul>
+      </li></br>
+
+    <li>Bivariate Analysis:
+        <ul>
+            <li>Barplot Categoricak Columns by Churn</li>
+            <li>Displot of Bivariate Analysis by Churn</li>
+        </ul>
+      </li></br>
+
+    <li>Features Encoding:
+        <ul>
+            <li>Drop 'customerID' because it's not a feature but a unique ID</li>
+            <li>Encode target 'Churn' into 0/1</li>
+            <li>Binary categorical columns — use LabelEncoder</li>
+            <li>Multi-category categorical columns — use One-Hot Encoding</li>
+        </ul>
+      </li></br>
+
+    <li>Features Scalling:
+        <ul>
+            <li>Convert TotalCharges to numeric (sometimes stored as string)</li>
+            <li>Fill missing TotalCharges with median value</li>
+            <li>Scale numerical features using StandardScaler (mean=0, std=1)</li>
+        </ul>
+      </li></br>
+
+    <li>Modeling & Evaluation:
+        <ul>
+            <li>Spliting Data</li>
+            <li>Modeling : Random Forest</li>
+        </ul>
+      </li></br>
+  
+    <li>Performance Evaluation:
+        <ul>
+            <li>Evaluate performance</li>
+            <li>heatmap(confusion_matrix(y_test, y_pred</li>
+            <li>Plot top 15 important features</li>
+            <li>Calculate ROC-AUC</li>
+        </ul>
+    </li>
 </ol></br>
 
-
-Data Understanding
--Checking duplicated data
--Checking missing values
--Check the count and what unique values exist for each feature
-- Conversion Data Type TotalCharges
-
-Data Preprocessing
--Conversion Data Type TotalCharges
--Handling Missing Values
--Fill NaN values only in the 'TotalCharges' column with 0
-
-Univariate Analysis
--Grouping Categorical and Numerical Columns
--Histogram and boxplot Numerical Columns
--Churn Distribuition plot
--Distribuiton Categorical Columns plots
-
-Bivariate Analysis
-- Barplot Categoricak Columns by Churn
-- Displot of Bivariate Analysis by Churn
-
-Multivariate Analysis
--correlation heatmap
-
-Features Encoding
-- # Drop 'customerID' because it's not a feature but a unique ID
-- Encode target 'Churn' into 0/1
-- Binary categorical columns — use LabelEncoder
-- Multi-category categorical columns — use One-Hot Encoding
-
-Features Scalling
-- Convert TotalCharges to numeric (sometimes stored as string)
-- Fill missing TotalCharges with median value
-- Scale numerical features using StandardScaler (mean=0, std=1)
-
-Modeling & Evaluation
-- Spliting Data
-- Modeling : Random Forest
-
-Performance Evaluation
-- Evaluate performance
-- heatmap(confusion_matrix(y_test, y_pred
-- Plot top 15 important features
-- Calculate ROC-AUC
-
-Conclusion
-The current model performs reasonably well in distinguishing between churn and non-churn customers, as indicated by its high AUC score.
-However, the relatively low churn recall (48%) shows that a significant number of churn cases remain undetected, which could lead to potential business losses from customer attrition.
-This project will be continued, as there is still room to improve the model’s performance. The author is also exploring various techniques to achieve better predictive results.
-In the future, once the model’s performance improves, data-driven business strategy recommendations based on the model’s output will be added for actionable insights.
+<h3>Conclusion</h3>
+<ul>
+    <li>The current model performs reasonably well in distinguishing between churn and non-churn customers, as indicated by its high AUC score.</li>
+    <li>However, the relatively low churn recall (48%) shows that a significant number of churn cases remain undetected, which could lead to potential business losses from customer attrition.</li>
+    <li>This project will be continued, as there is still room to improve the model’s performance. The author is also exploring various techniques to achieve better predictive results.</li>
+    <li>In the future, once the model’s performance improves, data-driven business strategy recommendations based on the model’s output will be added for actionable insights.</li>
+</ul>
