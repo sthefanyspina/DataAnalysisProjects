@@ -27,58 +27,53 @@
 </p>
 
 <h3>Objective</h3>
-<ul>
-Predictive Modeling:
+<ul>Predictive Modeling:
     <li> Build a machine learning model to classify customers into churn or non-churn segments. </li>
     <li>Identify the most influential features contributing to churn.</li> 
 </ul>
 
-<ul>
-Actionable Insights:
+<ul>Actionable Insights:
     <li>Provide recommendations for personalized retention offers. </li>
     <li>Support marketing and customer service teams in implementing targeted strategies. </li> 
 </ul>
 
-<ul>
-Business Impact
+<ul>Business Impact
     <li>Reduce churn rate and increase Customer Lifetime Value (CLTV).</li>
     <li>Enhance customer loyalty and satisfaction. </li> 
 </ul>
 
-
-
 <h3>Steps:</h3>
 <ol> 
-  <li> Load the csv file:
-    <ul>
-      <li>Used the read_csv() to load my dataset into a Pandas DataFrame.</li>
-    </ul>
-  </li></br>
+    <li> Load the csv file:
+        <ul>
+            <li>Used the read_csv() to load my dataset into a Pandas DataFrame.</li>
+        </ul>
+      </li></br>
 
-  <li>Data Understanding:
-    <ul>
-      <li>Checking duplicated data. </li>
-      <li>Checking missing values</li>
-      <li>Check the count and what unique values exist for each feature</li>
-    </ul>
-  </li></br>
+    <li>Data Understanding:
+        <ul>
+          <li>Checking duplicated data. </li>
+          <li>Checking missing values</li>
+          <li>Check the count and what unique values exist for each feature</li>
+        </ul>
+      </li></br>
 
-  <li>Data Preprocessing:
-    <ul>
-      <li>Conversion Data Type TotalCharges</li>
-      <li>Handling Missing Values</li>
-        <li>Fill NaN values only in the 'TotalCharges' column with 0</li>
-    </ul>
-  </li></br>
+    <li>Data Preprocessing:
+        <ul>
+          <li>Conversion Data Type TotalCharges</li>
+          <li>Handling Missing Values</li>
+          <li>Fill NaN values only in the 'TotalCharges' column with 0</li>
+        </ul>
+      </li></br>
 
-  <li>Univariate Analysis:
-    <ul>
-        <li>Grouping Categorical and Numerical Columns</li>
-        <li>Histogram and boxplot Numerical Columns</li>
-        <li>Churn Distribuition plot</li>
-        <li>Distribuiton Categorical Columns plots</li>
-    </ul>
-  </li></br>
+    <li>Univariate Analysis:
+        <ul>
+            <li>Grouping Categorical and Numerical Columns</li>
+            <li>Histogram and boxplot Numerical Columns</li>
+            <li>Churn Distribuition plot</li>
+            <li>Distribuiton Categorical Columns plots</li>
+        </ul>
+      </li></br>
 
     <li>Bivariate Analysis:
         <ul>
