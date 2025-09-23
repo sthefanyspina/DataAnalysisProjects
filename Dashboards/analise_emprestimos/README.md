@@ -21,20 +21,13 @@ Os dados foram criados por meio da ferramenta SimulaDados, uma ferramenta que ge
 ## Dicionário de Dados
 
 Nome da Coluna: id_cliente
-
 Descrição: variavel unica para identificar a solicitação de um emprestimo
-
 Tipo de Dados: número inteiro
 
-
 Nome da Coluna: genero
-
 Descrição: variavel para identificar o genero do solicitante
-
 Tipo de Dados: texto
-
 Valores Possíveis: Masculino / Feminino
-
 
 Nome da Coluna: idade
 Descrição: variavel que identifica a idade do solicitante
