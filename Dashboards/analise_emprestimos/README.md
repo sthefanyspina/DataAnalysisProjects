@@ -20,81 +20,81 @@ Os dados foram criados por meio da ferramenta SimulaDados, uma ferramenta que ge
 
 ## Dicionário de Dados
 
-Nome da Coluna: id_cliente
-Descrição: variavel unica para identificar a solicitação de um emprestimo
+Nome da Coluna: id_cliente |
+Descrição: variavel unica para identificar a solicitação de um emprestimo |
 Tipo de Dados: número inteiro
 
-Nome da Coluna: genero
-Descrição: variavel para identificar o genero do solicitante
-Tipo de Dados: texto
+Nome da Coluna: genero |
+Descrição: variavel para identificar o genero do solicitante |
+Tipo de Dados: texto |
 Valores Possíveis: Masculino / Feminino
 
-Nome da Coluna: idade
-Descrição: variavel que identifica a idade do solicitante
-Tipo de Dados: número inteiro
+Nome da Coluna: idade |
+Descrição: variavel que identifica a idade do solicitante |
+Tipo de Dados: número inteiro |
 Valores Possíveis: valores foram distribuidos desigualmente entre valores de 18 a 70
 
-Nome da Coluna: possui_carro
-Descrição: variavel para identificar se o solicitante possui algum veiculo
-Tipo de Dados: texto
+Nome da Coluna: possui_carro |
+Descrição: variavel para identificar se o solicitante possui algum veiculo |
+Tipo de Dados: texto |
 Valores Possíveis: Sim/Não
 
-Nome da Coluna: possui_propriedade
-Descrição: variavel para identificar se o solicitante possui alguma propriedade
-Tipo de Dados: texto
+Nome da Coluna: possui_propriedade |
+Descrição: variavel para identificar se o solicitante possui alguma propriedade |
+Tipo de Dados: texto |
 Valores Possíveis: Sim/Não
 
-Nome da Coluna: numero_filhos
-Descrição: variavel para identificar se o solicitante possui filhos
-Tipo de Dados: número inteiro
+Nome da Coluna: numero_filhos |
+Descrição: variavel para identificar se o solicitante possui filhos |
+Tipo de Dados: número inteiro |
 Valores Possíveis: valores foram distribuidos desigualmente entre valores de 0 e 5
 
-Nome da Coluna: salario_anual
-Descrição: variavel que representa o salário anual do solicitante
-Tipo de Dados: número inteiro
+Nome da Coluna: salario_anual |
+Descrição: variavel que representa o salário anual do solicitante |
+Tipo de Dados: número inteiro |
 Valores Possíveis: valores aleatorios, distribuidos desigualmete
 
-Nome da Coluna: educacao
-Descrição: variavel que representa o nível educacional do solicitante
-Tipo de Dados: texto
+Nome da Coluna: educacao |
+Descrição: variavel que representa o nível educacional do solicitante |
+Tipo de Dados: texto |
 Valores Possíveis: Fundamental / Medio / Superior / Pos-graduacao
 
-Nome da Coluna: categoria_trabalho
-Descrição: variavel que representa o tipo de trabalho do solicitante
-Tipo de Dados: texto
+Nome da Coluna: categoria_trabalho |
+Descrição: variavel que representa o tipo de trabalho do solicitante |
+Tipo de Dados: texto |
 Valores Possíveis: Privado / Publico / Autonomo / Aposentado
 
-Nome da Coluna: status_matrimonial
-Descrição: variavel que representa o status matrimonial do representante
-Tipo de Dados: texto
+Nome da Coluna: status_matrimonial |
+Descrição: variavel que representa o status matrimonial do representante |
+Tipo de Dados: texto |
 Valores Possíveis: Solteiro / Casado / Divorviado / Viuvo
 
-Nome da Coluna: pontuacao_credito
-Descrição: variavel para represtar o score do solicitante
-Tipo de Dados: número inteiro
+Nome da Coluna: pontuacao_credito |
+Descrição: variavel para represtar o score do solicitante |
+Tipo de Dados: número inteiro |
 Valores Possíveis: valores foram distribuidos aleatoriamente e desigualmente entre 300 e 850
 
-Nome da Coluna: pagamentos_atrasados
-Descrição: variavel que representa se o solicitante possui pagamentos atrasados de emprestimos 
+Nome da Coluna: pagamentos_atrasados |
+Descrição: variavel que representa se o solicitante possui pagamentos atrasados de emprestimos |
 Tipo de Dados: número inteiro
 
-Nome da Coluna: valor_solicitado
-Descrição: variavel que representa o valor do emprestimo que foi solicitado
-Tipo de Dados: número inteiro
+Nome da Coluna: valor_solicitado |
+Descrição: variavel que representa o valor do emprestimo que foi solicitado |
+Tipo de Dados: número inteiro |
 Valores Possíveis:  valores foram distribuidos aleatoriamente e desigualmente entre 5.000 a 200.000
 
-Nome da Coluna: finalidade_emprestimo
-Descrição: variavel para representar a finalidade do emprestimo
-Tipo de Dados: texto
+Nome da Coluna: finalidade_emprestimo |
+Descrição: variavel para representar a finalidade do emprestimo |
+Tipo de Dados: texto |
 Valores Possíveis: Carro / Educacao / Negocios / Viagem / Saude / Outro
 
-Nome da Coluna: qtd_emprestimos_anteriores
-Descrição: variavel que identifica se já houve um emprestimo anterior
+Nome da Coluna: qtd_emprestimos_anteriores |
+Descrição: variavel que identifica se já houve um emprestimo anterior |
 Tipo de Dados: número inteiro
 
-Nome da Coluna: emprestimo_aprovado
-Descrição: variavel que representa a aprovação do emprestimo
-Tipo de Dados: texto
+Nome da Coluna: emprestimo_aprovado |
+Descrição: variavel que representa a aprovação do emprestimo |
+Tipo de Dados: texto |
 Valores Possíveis: Sim / Não
 
 
