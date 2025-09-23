@@ -1,6 +1,6 @@
 # Analise de Pedidos de Empréstimos
 
-<img src="imagem.png" alt="Exemplo imagem">
+<img src="Overview.png" alt="Aba Overview do projeto">
 
 ## Propósito do Dashboard
 
@@ -14,11 +14,11 @@ As tecnologias usadas nesse projeto incluem:
 - Power Query: para fazer as transformações necessárias nos dados
 - PowerBI: para criação do dashboard
 
-## 🚀 Origem dos Dados
+## Origem dos Dados
 
 Os dados foram criados por meio da ferramenta SimulaDados, uma ferramenta que gera datasets com dados ficticios para analise de dados.
 
-## ☕ Dicionário de Dados
+## Dicionário de Dados
 
 Nome da Coluna: id_cliente
 Descrição: variavel unica para identificar a solicitação de um emprestimo
@@ -120,9 +120,7 @@ Valores Possíveis: Sim / Não
 Estrutura do Dashboard: 
 
 - Aba 1 - Overview: Gráficos com KPIs principais.
-
 - Aba 2 - Emprestimos Aprovados: Foco nas caracteristicas dos clientes que tiveram o emprestimo aprovado.
-
 - Aba 3 - Emprestimos Não Aprovados: Foco nas caracteristicas dos clientes que tiveram o emprestimo reprovado.
 
 ## Funcionalidades Principais
