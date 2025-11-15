@@ -167,6 +167,3 @@ Metrics used for comparison:
 - **MAE** — Mean Absolute Error
 - **RMSE** — Root Mean Square Error
 - **MAPE** — Mean Absolute Percentage Error
-
-For questions, feedback, or collaboration:  
-**Author:** Sthefany Spina  
